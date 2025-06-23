@@ -1,0 +1,6 @@
+torch
+torchvision
+faiss-cpu
+Pillow
+requests
+numpy
